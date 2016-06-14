@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-electron-test",
+  "version": "0.0.1",
+  "description": "Electron Test Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "asy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.2"
+  }
+}
